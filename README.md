@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @DavidRangel88: I have 36 years old and I'm professional marketing over 12y.
-- 👀 I’m interested in: Blockchain, IA, Gamification, Code, Human Centered Design, Marketing and Photography.
-- 🌱 I’m currently learning: Python, Ruby, SQL and and High Performance.
-- 🥷 I work hunting for laras on the Deep & Dark Web, taking down fake profiles on social media, taking down fake InfinitePay sites and collaborating with the Monitoring and Security team.
-- 📫 How to reach me: On my bio in the Slack. 
-<!---
-DavidRangel88/DavidRangel88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me
+
+🎯 Risk/Fraud Analyst (2+ yrs) — hunting fraud, monitoring suspicious behavior, taking down fake InfinitePay sites, and collaborating with Security & Monitoring teams.
+
+💼 12+ yrs in Marketing — strategic experience with digital campaigns, branding, and growth.
+
+🏆 Academic award in Design Thinking & early mover at Reclame Aqui.
+
+📚 Passionate reader — over 500 books.
+
+🎓 Currently studying Data Science (BSc) & Product Management.
+
+🤖 Exploring AI, Blockchain, Gamification & Human-Centered Design.
+
+🚴 Aspiring triathlete — always chasing performance and resilience.
+
+What I’m learning
+
+🌱 Python | Ruby | SQL | High Performance Systems
+
+Interests
+
+👀 Blockchain | AI | Code | Design Thinking | Security | Marketing | Photography
+
+How to reach me
+
+📫 Check my bio on Slack or connect with me here on GitHub.
